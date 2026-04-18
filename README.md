@@ -41,8 +41,6 @@ Set any duration, watch the ring count down, and get a dismissible alarm when ti
 </table>
 </div>
 
-> **To add your own screenshots:** create a `screenshots/` folder in the repo root and drop in `picker.png`, `running.png`, and `notification.png`.
-
 ---
 
 ## ✨ Features
